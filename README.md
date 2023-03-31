@@ -1,6 +1,6 @@
 ## TestNGProject
 
-This is a sample project to demonstrate what is page object model framework and how it can used in selenium to automate any application. 
+This is a simple sample project that demonstrates what TestNG framework is and how it can be used with Selenium to utilize different annotations and assertions. Additionally, it shows how to use attributes of annotations and how to run the whole project through the TestNG XML file.
 
 TestNG is used as test framework.
 
